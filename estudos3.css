@@ -1,0 +1,187 @@
+body{
+    background-color:#141414;
+   
+}
+
+
+.container{
+
+    display: flex;
+   
+    
+    justify-content: center;
+    gap: 27px;
+}
+
+
+.objeto1{
+
+    width: 10vw;
+    height: 10vw;
+    background-color: rgb(0, 0, 0);
+    
+    position: relative;
+    top: 208px;
+}
+
+.objeto2{
+    width: 10vw;
+    height: 10vw;
+    background-color: rgb(0, 0, 0);
+    
+    position: relative;
+    top: 208px;
+    
+   
+
+
+}
+
+
+.objeto3{
+
+    width: 10vw;
+    height: 10vw;
+    background-color: rgb(0, 0, 0);
+    border: solid 1px black;
+    position: relative;
+    top: 208px;
+   
+
+}
+
+
+.objeto4{
+    width: 10vw;
+    height: 10vw;
+    background-color: rgb(255, 111, 231);
+    border: solid 1px black;
+   position: relative;
+   top: 208px;
+
+
+}
+
+h1{
+
+    font-size: 3.5vw;
+    font-weight: unset;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 95px;
+    opacity: 1;
+    text-align: center;
+    position: fixed;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    letter-spacing: 2px;
+}
+
+
+.gerenciar{
+    background-color: transparent;
+    border: 1px solid grey;
+    color: grey;
+    cursor: pointer;
+    display: block;
+    font-size: 1.2vw;
+    letter-spacing: 2px;
+    margin: 2em 0 1em;
+    padding: 0.5em 1.0em;
+    position: absolute;
+    top: 66%;
+    left: 43%;
+}
+.gerenciar:hover{
+    
+    border: 1px solid white;
+    color: white;
+
+}
+
+
+P{
+
+    color: white;
+}
+
+
+    
+    
+
+
+
+
+.iran{
+    position: absolute;
+    top: 130px;
+    left: 36%;
+}
+
+.iran:hover{
+    color: whitesmoke;
+    cursor: pointer;
+}
+
+
+.catiran{
+    position: absolute;
+    top: 130px;
+    left: 26%;
+
+}
+
+.catiran:hover{
+    color: whitesmoke;
+    cursor: pointer;
+
+}
+
+.iranecat{
+
+    position: absolute;
+    top: 130px;
+    left: 22%;
+}
+.iranecat:hover{
+    color: whitesmoke;
+    cursor: pointer;
+}
+
+.infantil{
+    position: absolute;
+    top: 130px;
+    left: 25%;
+}
+
+.infantil:hover{
+    color: whitesmoke;
+    cursor: pointer;
+}
+
+
+.imagem1:hover{
+    cursor: pointer;
+    border: solid 3px whitesmoke;
+}
+
+
+.imagem2:hover{
+    cursor: pointer;
+    border: solid 3px whitesmoke;
+    
+}
+
+
+.imagem3:hover{
+    cursor: pointer;
+    border: solid 3px whitesmoke;
+    
+}
+
+
+
+.imagem4:hover{
+
+    cursor: pointer;
+    border: solid 3px whitesmoke;
+}
